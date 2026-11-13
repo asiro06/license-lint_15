@@ -7,6 +7,7 @@
 - 输出合规评分报告，提示开源合规风险
 - 支持导出HTML格式评分报告
 - 支持导出Markdown格式评分报告
+
 ## 📦 环境安装
 ```bash
 pip install -r requirements.txt
